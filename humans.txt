@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Juhi Singh> -- <juhisingh0192@gmail.com>
 
 # THANKS
 
