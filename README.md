@@ -13,3 +13,7 @@ Deployment can be on any web server or even local file system
 ## How to Contribute
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2014 Git.Training.
